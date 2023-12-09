@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Autocomplete/Autocomplete.scss","webpack://src/App.scss"],"names":[],"mappings":"AAAA,kBACE,eAAgB,CAChB,gBAAiB,CCFnB,OACE,YAAa","file":"main.aec32e19.chunk.css","sourcesContent":[".scroll-container {\n  overflow-y: auto;\n  max-height: 350px;\n}\n","iframe {\n  display: none;\n}\n"]}
